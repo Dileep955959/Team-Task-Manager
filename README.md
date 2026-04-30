@@ -6,7 +6,7 @@
 
 📌 Overview
 
-**Team Task Manager** is a web-based application designed to help teams efficiently manage projects, assign tasks, and track progress.
+Team Task Manager is a web-based application designed to help teams efficiently manage projects, assign tasks, and track progress.
 It provides a clean dashboard interface with role-based access control for better collaboration between Admins and Members.
 
 ✨ Key Features
@@ -74,7 +74,7 @@ Frontend
 
 🌐 Deployment
 
-The project is deployed using **GitHub Pages**:
+The project is deployed using GitHub Pages:
 👉 https://dileep955959.github.io/Team-Task-Manager/
 
  📈 Future Enhancements
