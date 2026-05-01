@@ -97,6 +97,4 @@ This project is open-source and available under the MIT License.
 
  👨‍💻 Author
 
-Dileep Kumar
-
-⭐ If you found this project helpful, don’t forget to star the repo!
+Dileep Kumar 
